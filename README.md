@@ -24,6 +24,8 @@ In order to provide sufficient power while maintaining a low center of gravity,a
 ![a28acb4f-3633-44bd-8026-dcdb0c8762be](https://github.com/user-attachments/assets/1cc01abf-d5c9-4201-b6b1-5d7e8b75588f)
 ![fa42adc7-9042-40d6-8d39-2414d236dca0](https://github.com/user-attachments/assets/f3424782-b07e-46b5-96a8-f200934c3cc8)
 
+![0138562c-2552-4a82-ba7b-9dd04e62f215](https://github.com/user-attachments/assets/8fc72ed9-bf62-41ea-b81f-e6086f17b642)
+
 ## Videos
 
 https://youtube.com/shorts/2qRbkESjyrA?feature=share
