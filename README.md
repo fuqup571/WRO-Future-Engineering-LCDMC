@@ -6,8 +6,8 @@ We,Tsoi Ka Fu,Wong Miki and Zhang Xinyi,make up the WRO team HK-LCDMC.This is we
 ## Contents
 
 -[Mobility Management](#Mobility-Management)
--[Mobility Management](#Photo)
--[Mobility Management](#Videos)
+-[Photo](#Photo)
+-[Videos](#Videos)
 
 ## Mobility Management
 
