@@ -11,9 +11,9 @@ We,Tsoi Ka Fu,Wong Miki and Zhang Xinyi,make up the WRO team HK-LCDMC.This is we
 
 ## Mobility Management
 
-The robot uses d12 wpl as the basic structure,equipped with jetson orin nano and self-designed 3Dprinting parts to further strengthen the structure and additional functions.This car is a rear-wheel drive vehicle,so the frame uses a double-sided Ackermann steering mechanism,which can flexibly make sharp turns,and also has a differential to ensure that power is transmitted evenly to all four wheels.
+The robot uses d12 wpl as its basic structure and is equipped with jetson orin nano and self-designed 3D printed parts to further enhance the structure and additional functions. It also has a differential to ensure power is transferred evenly to all four wheels.
 
-In order to provide sufficient power while maintaining a low center of gravity,a powerful RC servo motor is used,which is connected to the steering shaft using 3D printed parts and gears.The electronic components are distributed on the upper and lower 3D printed brackets and are assembled through standard hardware.Self-designed 3D printed parts helpachieve a compact and stable overall structure.
+In order to provide sufficient power while maintaining a low center of gravity, a powerful RC servo motor is used, which is connected to the steering shaft through 3D printed parts and gears. Ackermann steering geometry is used to turn, helping to achieve a compact and stable overall body. structure.
 
 ## Photo
 
